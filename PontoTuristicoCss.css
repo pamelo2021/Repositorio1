@@ -1,0 +1,28 @@
+/* 
+    Created on : 19/09/2021, 14:50:06
+    Author     : pamelo
+*/
+
+body{
+    width: 95%;
+    max-width: 800px;
+    margin: auto;
+    background: url(bg.jpg);
+    
+    font-family: arial-narrow-os;
+    line-height: 1.5;
+    color: #131313;
+    
+}
+
+main{
+    background: #1515bd2e;
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.logo,.titulo, .localizacao, .hospedagem {
+    margin: 0;
+    text-align:center;
+}
